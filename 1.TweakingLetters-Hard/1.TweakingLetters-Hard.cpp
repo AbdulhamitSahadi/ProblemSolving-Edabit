@@ -5,6 +5,7 @@
 #include<iostream>
 using namespace std;
 
+
 string tweakLetters(string str, int status[]) {
 
 	string res = "";
