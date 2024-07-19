@@ -5,6 +5,8 @@ VisualStudioVersion = 17.10.35013.160
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "1.TweakingLetters-Hard", "1.TweakingLetters-Hard\1.TweakingLetters-Hard.vcxproj", "{65644307-F2BA-472C-B2D1-BC70EA2D58C4}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "2.DiagonalOfACube-Hard", "2.DiagonalOfACube-Hard\2.DiagonalOfACube-Hard.vcxproj", "{53E4174F-3FAA-430C-A8EE-4FEDB753A1F2}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -21,6 +23,14 @@ Global
 		{65644307-F2BA-472C-B2D1-BC70EA2D58C4}.Release|x64.Build.0 = Release|x64
 		{65644307-F2BA-472C-B2D1-BC70EA2D58C4}.Release|x86.ActiveCfg = Release|Win32
 		{65644307-F2BA-472C-B2D1-BC70EA2D58C4}.Release|x86.Build.0 = Release|Win32
+		{53E4174F-3FAA-430C-A8EE-4FEDB753A1F2}.Debug|x64.ActiveCfg = Debug|x64
+		{53E4174F-3FAA-430C-A8EE-4FEDB753A1F2}.Debug|x64.Build.0 = Debug|x64
+		{53E4174F-3FAA-430C-A8EE-4FEDB753A1F2}.Debug|x86.ActiveCfg = Debug|Win32
+		{53E4174F-3FAA-430C-A8EE-4FEDB753A1F2}.Debug|x86.Build.0 = Debug|Win32
+		{53E4174F-3FAA-430C-A8EE-4FEDB753A1F2}.Release|x64.ActiveCfg = Release|x64
+		{53E4174F-3FAA-430C-A8EE-4FEDB753A1F2}.Release|x64.Build.0 = Release|x64
+		{53E4174F-3FAA-430C-A8EE-4FEDB753A1F2}.Release|x86.ActiveCfg = Release|Win32
+		{53E4174F-3FAA-430C-A8EE-4FEDB753A1F2}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
