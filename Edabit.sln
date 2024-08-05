@@ -13,6 +13,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "4.DoubleCharacterSwap-Mediu
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "5.SplitAStringBasedOnVowelsAndConsonants-Medium", "5.SplitAStringBasedOnVowelsAndConsonants-Medium\5.SplitAStringBasedOnVowelsAndConsonants-Medium.vcxproj", "{538F0768-54F1-47F1-923B-B8384A18C287}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "6.ValidHexCode-Hard", "6.ValidHexCode-Hard\6.ValidHexCode-Hard.vcxproj", "{E1D0FDF0-FBF5-4D71-8998-446665E3E97B}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -61,6 +63,14 @@ Global
 		{538F0768-54F1-47F1-923B-B8384A18C287}.Release|x64.Build.0 = Release|x64
 		{538F0768-54F1-47F1-923B-B8384A18C287}.Release|x86.ActiveCfg = Release|Win32
 		{538F0768-54F1-47F1-923B-B8384A18C287}.Release|x86.Build.0 = Release|Win32
+		{E1D0FDF0-FBF5-4D71-8998-446665E3E97B}.Debug|x64.ActiveCfg = Debug|x64
+		{E1D0FDF0-FBF5-4D71-8998-446665E3E97B}.Debug|x64.Build.0 = Debug|x64
+		{E1D0FDF0-FBF5-4D71-8998-446665E3E97B}.Debug|x86.ActiveCfg = Debug|Win32
+		{E1D0FDF0-FBF5-4D71-8998-446665E3E97B}.Debug|x86.Build.0 = Debug|Win32
+		{E1D0FDF0-FBF5-4D71-8998-446665E3E97B}.Release|x64.ActiveCfg = Release|x64
+		{E1D0FDF0-FBF5-4D71-8998-446665E3E97B}.Release|x64.Build.0 = Release|x64
+		{E1D0FDF0-FBF5-4D71-8998-446665E3E97B}.Release|x86.ActiveCfg = Release|Win32
+		{E1D0FDF0-FBF5-4D71-8998-446665E3E97B}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
